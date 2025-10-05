@@ -150,7 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Author**
 
-**Your Name**
+
 - GitHub: https://github.com/kaushikheromaqsad
 - LinkedIn: www.linkedin.com/in/kaushik-amle-5937b1329
 
@@ -167,6 +167,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 password-manager, security, javascript, html5, css3, web-app, 
 ai-assisted, responsive-design, mobile-first, encryption, 
 cybersecurity, authentication, password-generator, qr-codes
+
+
+
+
+
+
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
