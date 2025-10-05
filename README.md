@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: (https://github.com/yourusername)
+- GitHub: https://github.com/kaushikheromaqsad
 - LinkedIn:www.linkedin.com/in/kaushik-amle-5937b1329
 
 ## 🙏 **Acknowledgments**
